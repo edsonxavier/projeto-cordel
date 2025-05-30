@@ -28,7 +28,7 @@ body {
 
 header {
     background-color: black;
-    color: rgb(128, 233, 23);
+    color: rgb(179, 250, 107);
     text-align: center;
 }
 
@@ -70,7 +70,7 @@ a:hover {
 }
 
 section.normal {
-    background-image: linear-gradient(to bottom,skyblue, white);
+    background-image: linear-gradient(to bottom,rgba(243, 185, 77, 0.972), white);
     color: black;
 }
 
